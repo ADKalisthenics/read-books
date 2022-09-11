@@ -1,2 +1,4 @@
 # read-books
-First project for Java programming
+A project that create a simple software programme for Library systems.
+
+#
