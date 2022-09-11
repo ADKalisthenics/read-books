@@ -1,2 +1,1 @@
-#📚 read-books
-A project that create a simple software programme for Library systems.
+# 💻 This is what I studied and got lesson at the beginning of a programming class 
